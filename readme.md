@@ -1,8 +1,8 @@
-# 📝 To-Do List App
+# To-Do List App
 
 A simple and clean To-Do List web application.
 
-## 🚀 Features
+## Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -10,17 +10,20 @@ A simple and clean To-Do List web application.
 - Persistent storage using LocalStorage
 - Responsive design (mobile & desktop)
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML
 - CSS (Flexbox)
 - JavaScript (DOM manipulation & LocalStorage)
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
-## 📅 Deadline
+## Deadline
 
 January 8
+
+## Deployment
+[Vercel](https://todo-two-inky.vercel.app/)
