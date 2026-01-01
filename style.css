@@ -18,9 +18,12 @@ body {
 
 header {
     background: #11be99;
+    font-size: 22px;
     color: white;
-    padding: 1.5rem;
+    padding: 0.1rem;
     text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+
 }
 
 main {
