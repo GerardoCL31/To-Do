@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 * {
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:  'Poppins';
 }
 
 body {
@@ -24,6 +25,9 @@ header {
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 
+}
+p{
+    color: #000606;
 }
 
 main {
